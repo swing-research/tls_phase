@@ -1,6 +1,8 @@
-# Total least squares phase retrieval
+# Total Least Squares Phase Retrieval
 
-Repository for 'Total least squares phase retrieval'
+Repository for 'Total Least Squares Phase Retrieval'.
+
+Paper: <https://arxiv.org/abs/2102.00927>
 
 We address the phase retrieval problem with errors in the sensing vectors. 
 A number of recent methods for phase retrieval are based on least squares (LS) formulations which
